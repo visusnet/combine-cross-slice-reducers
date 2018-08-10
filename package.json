@@ -1,0 +1,38 @@
+{
+  "name": "combine-cross-slice-reducers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visusnet/combine-cross-slice-reducers.git"
+  },
+  "author": "Alexander Müller <alexander.mueller@codecentric.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/visusnet/combine-cross-slice-reducers/issues"
+  },
+  "homepage": "https://github.com/visusnet/combine-cross-slice-reducers#readme",
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "babel-plugin-array-includes": "^2.0.3",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-plugin-transform-runtime": "^6.23.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-flow": "^6.23.0",
+    "eslint": "^5.3.0",
+    "eslint-plugin-babel": "^5.1.0",
+    "eslint-plugin-flowtype": "^2.50.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-jest": "^21.20.2",
+    "flow-bin": "^0.78.0",
+    "jest": "^23.4.2",
+    "react-redux": "^5.0.7"
+  },
+  "jest": {
+    "testURL": "http://example.org"
+  }
+}
