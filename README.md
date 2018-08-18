@@ -9,7 +9,8 @@ Yet another way to scale reducers.
 
 With npm:
 ```bash
-npm i --save combine-cross-slice-reducers```
+npm i --save combine-cross-slice-reducers
+```
 Or with yarn:
 ```bash
 yarn add -D combine-cross-slice-reducers
