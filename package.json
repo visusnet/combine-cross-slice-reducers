@@ -19,7 +19,7 @@
   "homepage": "https://github.com/visusnet/combine-cross-slice-reducers#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-eslint": "^8.2.6",
+    "babel-eslint": "^9.0.0",
     "babel-plugin-array-includes": "^2.0.3",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.23.0",
@@ -30,7 +30,7 @@
     "eslint-plugin-flowtype": "^2.50.0",
     "eslint-plugin-import": "^2.13.0",
     "eslint-plugin-jest": "^21.20.2",
-    "flow-bin": "^0.78.0",
+    "flow-bin": "^0.80.0",
     "jest": "^23.4.2",
     "react-redux": "^5.0.7"
   },
