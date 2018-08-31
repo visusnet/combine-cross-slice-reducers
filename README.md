@@ -1,7 +1,7 @@
 combineCrossSliceReducers
 ===
 
-[![npm version](https://badge.fury.io/js/combine-cross-slice-reducers.svg)](https://badge.fury.io/js/combine-cross-slice-reducers)
+[![npm version](https://badge.fury.io/js/combine-cross-slice-reducers.svg)](https://badge.fury.io/js/combine-cross-slice-reducers) [![Greenkeeper badge](https://badges.greenkeeper.io/visusnet/combine-cross-slice-reducers.svg)](https://greenkeeper.io/)
 
 Yet another way to scale reducers.
 
