@@ -18,7 +18,7 @@ yarn add -D combine-cross-slice-reducers
 
 ## Usage
 
-The usage of `combineCrossSliceReducers` is the same as [Redux's combineReducers](http://redux.js.org/docs/api/combineReducers.html)'s one.
+The usage of `combineCrossSliceReducers` is the same as [Redux's combineReducers](https://redux.js.org/api/combinereducers/)'s one.
 
 A cross-slice reducer receives a third argument which is the updated global state.
 
