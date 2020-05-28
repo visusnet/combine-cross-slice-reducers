@@ -169,6 +169,10 @@ If ``combineReducers`` does not work for you, you might want to consider other l
 - [reducer-pipe](https://github.com/bydooweedoo/reducer-pipe) - Allows to pipe redux reducers with given state and action, passing previously returned state to next reducer, then keep last updated state
 - You can find [many more](https://github.com/markerikson/redux-ecosystem-links/blob/master/reducers.md) in [Mark Erikson](https://github.com/markerikson)'s curated list
 
+## Contributors
+
+- [Pawel Badenski](https://github.com/pbadenski)
+
 ## License
 
 MIT
