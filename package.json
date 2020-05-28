@@ -19,23 +19,23 @@
   "homepage": "https://github.com/visusnet/combine-cross-slice-reducers#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-eslint": "^8.2.6",
+    "babel-eslint": "^10.1.0",
     "babel-plugin-array-includes": "^2.0.3",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.7.0",
     "babel-preset-flow": "^6.23.0",
-    "eslint": "^5.3.0",
+    "eslint": "^7.1.0",
     "eslint-plugin-babel": "^5.1.0",
-    "eslint-plugin-flowtype": "^2.50.0",
+    "eslint-plugin-flowtype": "^5.1.3",
     "eslint-plugin-import": "^2.13.0",
-    "eslint-plugin-jest": "^21.20.2",
-    "flow-bin": "^0.78.0",
-    "jest": "^23.4.2",
-    "react-redux": "^5.0.7"
+    "eslint-plugin-jest": "^23.13.2",
+    "flow-bin": "^0.125.1",
+    "jest": "^26.0.1",
+    "react-redux": "^7.2.0"
   },
   "peerDependencies": {
-    "react-redux": "^5.0.7"
+    "react-redux": "^7.2.0"
   },
   "jest": {
     "testURL": "http://example.org"
