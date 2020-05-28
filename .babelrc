@@ -1,11 +1,11 @@
 {
   "presets": [
-    "env",
-    "flow"
+    "@babel/env",
+    "@babel/flow"
   ],
   "plugins": [
-    "transform-object-rest-spread",
-    "transform-runtime",
+    "@babel/proposal-object-rest-spread",
+    "@babel/transform-runtime",
     "array-includes"
   ]
 }

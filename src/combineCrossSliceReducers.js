@@ -1,5 +1,5 @@
 // @flow
-import type {Action} from 'react-redux';
+import type {Action} from 'redux';
 
 export type CrossSliceReducer<T, U> = (state: T, action: Action, globalState: U) => T;
 
